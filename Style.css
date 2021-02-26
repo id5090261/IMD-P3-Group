@@ -1,3 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* For Page-4  */
+nav{
+    
+}
+#tbl1{
+    border-spacing: 50px;
+    margin: auto;
+}
+.polaroid{
+    background-color: gray;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 10px;
+}
+.container{
+    margin: 10px ;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 20px;
+}
+#section-image{
+    padding: 20px ;
+    width: 150px;
+    height: 150px;
+}
+.tbl2 {
+    border-collapse: collapse;/*borders of each cells stick together*/
+    border: 3px solid rgb(104, 65, 139);
+    background-color: rgb(167, 138, 194);
+    width: 75%;
+    margin: auto;
+    margin-top:80px;
+}
+
+.tbl2 ,td{
+    border: 1.5px solid;
+    padding-left: 10px;
+    /* border-color: #9a09dd;
+    background-color: rgb(156, 32, 109); */
+}
+
+#cap {
+    caption-side: bottom;
+    padding: 5px;
+    color: rgb(90, 37, 139);
+}
+
+ /* For Page-4  */
+=======
 *{
     margin: 0;
     padding: 0;
