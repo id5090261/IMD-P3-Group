@@ -1,4 +1,181 @@
- /* For Page-4  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* For Page-4  */
 nav{
     
 }
@@ -47,3 +224,181 @@ nav{
 }
 
  /* For Page-4  */
+=======
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 10px;
+    margin:10px;
+    font-size: 20px;
+}
+#description{
+ margin: 150px;
+ text-decoration: solid;
+ color: blue;
+}
+#goals{
+ margin: 150px;
+ text-decoration: solid;
+ color: blue;
+}
+#rules{
+ margin:150px;
+ text-decoration: solid;
+ color: blue;
+ }
+#section{
+ margin:150px;
+ text-decoration: solid;
+ color: blue;
+}
+table{
+    border-spacing: 100px;  
+}
+.Goal1{
+background-color: dimgray; 
+text-align: center;
+border-radius: 20px;
+margin: 20px; 
+padding:30px; 
+width: 160px;
+height: 190px; 
+}
+#img1{
+width: 170px;
+height: 150px;
+border-radius: 50%;
+}
+#p1{
+font-size: larger;
+margin: 10px; 
+}
+#a1{
+color: blue;
+text-decoration: solid;
+ margin: 10px; 
+}
+.Goal2{
+ background-color: dimgray; 
+ text-align: center;
+ border-radius: 20px;
+ margin: 20px; 
+ padding:30px; 
+ width: 160px;
+ height: 190px; 
+}
+#img2{
+ width: 170px;
+ height: 150px;
+ border-radius: 50%;
+}
+#p2{
+ font-size: larger;
+ margin: 10px; 
+}
+#a2{
+ color: blue;
+ text-decoration: solid;
+ margin: 10px; 
+}
+.Goal3{
+  background-color: dimgray; 
+ text-align: center;
+ border-radius: 20px;
+ margin: 20px; 
+ padding:30px; 
+ width: 160px;
+ height: 190px; 
+ 
+}
+#img3{
+    width: 170px;
+    height: 150px;
+    border-radius: 50%;
+}
+#p3{
+    font-size: larger;
+    margin: 10px; 
+}
+#a3{
+    color: blue;
+    text-decoration: solid;
+    margin: 10px; 
+}
+.Goal4{
+    background-color: dimgray; 
+    text-align: center;
+    border-radius: 20px;
+    margin: 20px; 
+    padding:30px; 
+    width: 160px;
+    height: 190px; 
+   
+}
+#img4{
+    width: 170px;
+    height: 150px;
+    border-radius: 50%;
+}
+#p4{
+    font-size: larger;
+    margin: 10px; 
+}
+#a4{
+    color: blue;
+    text-decoration: solid;
+    margin: 10px; 
+}
+/* .Goal5{
+    background-color: dimgray; 
+    text-align: center;
+    border-radius: 20px;
+    margin: 20px; 
+    padding:30px; 
+    width: 160px;
+    height: 190px; 
+    margin-left: 1250px;
+}
+#img5{
+    width: 170px;
+    height: 150px;
+    border-radius: 50%;
+}
+#p5{
+    font-size: larger;
+    margin: 10px; 
+}
+#a5{
+    color: blue;
+    text-decoration: solid;
+    margin: 10px; 
+} */
+#form-1{
+    margin: 30px;
+    padding: 10px;
+   border-radius: 20px;
+}
+#h1{
+   margin: 20px; 
+  padding: 20px;
+}
+fieldset{
+    margin:20px;
+    padding: 30px;
+
+
+}
+.p{
+    margin: 20px; 
+}
+.b1{
+    font-size: large;
+    margin: 20px;
+}
+.a-Goal1{
+    color: black;
+    text-decoration: none;
+   
+}
