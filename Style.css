@@ -1,0 +1,307 @@
+/* For Page-4  */
+nav{
+    
+}
+#tbl1{
+    border-spacing: 50px;
+    margin: auto;
+}
+.polaroid{
+    background-color: gray;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 10px;
+}
+.container{
+    margin: 10px ;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 20px;
+}
+#section-image{
+    padding: 20px ;
+    width: 150px;
+    height: 150px;
+}
+.tbl2 {
+    border-collapse: collapse;/*borders of each cells stick together*/
+    border: 3px solid rgb(104, 65, 139);
+    background-color: rgb(167, 138, 194);
+    width: 75%;
+    margin: auto;
+    margin-top:80px;
+}
+
+.tbl2 ,td{
+    border: 1.5px solid;
+    padding-left: 10px;
+    /* border-color: #9a09dd;
+    background-color: rgb(156, 32, 109); */
+}
+
+#cap {
+    caption-side: bottom;
+    padding: 5px;
+    color: rgb(90, 37, 139);
+}
+
+ /* For Page-4  */
+* {
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 10px;
+    margin:10px;
+    font-size: 20px;
+}
+#description{
+ margin: 150px;
+ text-decoration: solid;
+ color: blue;
+}
+#goals{
+ margin: 150px;
+ text-decoration: solid;
+ color: blue;
+}
+#rules{
+ margin:150px;
+ text-decoration: solid;
+ color: blue;
+ }
+#section{
+ margin:150px;
+ text-decoration: solid;
+ color: blue;
+}
+table{
+    border-spacing: 100px;  
+}
+.Goal1{
+background-color: dimgray; 
+text-align: center;
+border-radius: 20px;
+margin: 20px; 
+padding:30px; 
+width: 160px;
+height: 190px; 
+}
+#img1{
+width: 170px;
+height: 150px;
+border-radius: 50%;
+}
+#p1{
+font-size: larger;
+margin: 10px; 
+}
+#a1{
+color: blue;
+text-decoration: solid;
+ margin: 10px; 
+}
+.Goal2{
+ background-color: dimgray; 
+ text-align: center;
+ border-radius: 20px;
+ margin: 20px; 
+ padding:30px; 
+ width: 160px;
+ height: 190px; 
+}
+#img2{
+ width: 170px;
+ height: 150px;
+ border-radius: 50%;
+}
+#p2{
+ font-size: larger;
+ margin: 10px; 
+}
+#a2{
+ color: blue;
+ text-decoration: solid;
+ margin: 10px; 
+}
+.Goal3{
+  background-color: dimgray; 
+ text-align: center;
+ border-radius: 20px;
+ margin: 20px; 
+ padding:30px; 
+ width: 160px;
+ height: 190px; 
+ 
+}
+#img3{
+    width: 170px;
+    height: 150px;
+    border-radius: 50%;
+}
+#p3{
+    font-size: larger;
+    margin: 10px; 
+}
+#a3{
+    color: blue;
+    text-decoration: solid;
+    margin: 10px; 
+}
+.Goal4{
+    background-color: dimgray; 
+    text-align: center;
+    border-radius: 20px;
+    margin: 20px; 
+    padding:30px; 
+    width: 160px;
+    height: 190px; 
+   
+}
+#img4{
+    width: 170px;
+    height: 150px;
+    border-radius: 50%;
+}
+#p4{
+    font-size: larger;
+    margin: 10px; 
+}
+#a4{
+    color: blue;
+    text-decoration: solid;
+    margin: 10px; 
+}
+/* .Goal5{
+    background-color: dimgray; 
+    text-align: center;
+    border-radius: 20px;
+    margin: 20px; 
+    padding:30px; 
+    width: 160px;
+    height: 190px; 
+    margin-left: 1250px;
+}
+#img5{
+    width: 170px;
+    height: 150px;
+    border-radius: 50%;
+}
+#p5{
+    font-size: larger;
+    margin: 10px; 
+}
+#a5{
+    color: blue;
+    text-decoration: solid;
+    margin: 10px; 
+} */
+#form-1{
+    margin: 30px;
+    padding: 10px;
+   border-radius: 20px;
+}
+#h1{
+   margin: 20px; 
+  padding: 20px;
+}
+fieldset{
+    margin:20px;
+    padding: 30px;
+
+
+}
+.p{
+    margin: 20px; 
+}
+.b1{
+    font-size: large;
+    margin: 20px;
+}
+.a-Goal1{
+    color: black;
+    text-decoration: none;
+   
+}
+#g-table {
+    border-spacing: 20px;
+    padding: 50px;
+}
+/* id5090261 */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+}
+.main-menu {
+    border-bottom: 1px solid #000;
+    padding: 15px;
+    text-align: center;
+}
+.main-menu li {
+    display: inline;
+    padding-right: 20px;
+}
+.description-detail {
+    border: 1px solid #000;
+    margin: 100px;
+    padding: 15px;
+    border-radius: 10px;
+    line-height: 1.5;
+}
+.description-cards {
+    text-align: center;
+    margin: 100px;
+}
+.description-card {
+    border: 1px solid #000;
+    margin: 20px;
+    padding: 15px 40px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+    width: 200px;
+}
+.description-card h2 {
+    margin-top: 20px;
+}
+.rules-detail {
+    border: 1px solid #000;
+    margin: 80px 100px 30px 100px;
+    padding: 15px;
+    border-radius: 10px;
+    line-height: 1.5;
+    height: 250px;
+    position: relative;
+}
+.rules-detail h2 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    transform: translate(-50%, -50%);
+}
+.rules-detail aside {
+    padding-left: 40px;
+    border-left: 1px solid #000;
+    border-spacing: 100px;
+    line-height: 1.5;
+    margin-left: 100px;
+}
+/* table {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    margin: 50px auto;
+}
+td, th {
+    border: 1px solid #000;
+    padding: 5px 50px;
+    text-align: center;
+    width: 100px;
+} */
